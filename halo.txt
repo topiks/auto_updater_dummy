@@ -11,3 +11,5 @@ test semua case 3
 test semua case 4
 test semua case 5
 test semua case 6
+
+test case 7
