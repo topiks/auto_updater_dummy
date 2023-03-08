@@ -4,3 +4,5 @@ test konflik ke2
 test konflik ke3
 test konflik ke4
 test konflik ke5
+
+test semua case
