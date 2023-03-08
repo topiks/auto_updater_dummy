@@ -6,3 +6,4 @@ test konflik ke4
 test konflik ke5
 
 test semua case
+test semua case 2
