@@ -39,3 +39,4 @@ coba dipush mane bro
 
 test case 24
 test case 25
+test case 26
